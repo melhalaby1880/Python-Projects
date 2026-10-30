@@ -1,0 +1,8 @@
+print ( "welcome to my calculator app" .capitalize () )
+Fnum = float ( input ( "enter the first number : " .capitalize () ) )
+Snum = float ( input ( "enter the second number : " .capitalize () ) )
+print ( "Adding : " + str(Fnum + Snum) )
+print ( "Subtracting : " + str(Fnum - Snum) )
+print ( "Multiplying : " + str(Fnum * Snum) )
+print ( "Dividing : " + str(Fnum / Snum) )
+print ( "Modulus : " + str(Fnum % Snum) )
